@@ -1,0 +1,97 @@
+{
+  "intents": [
+    {
+      "tag": "top_movies",
+      "patterns": [
+        "What is the top movie from 2020",
+        "Best movie in 2020",
+        "Top movie from the year 2020",
+        "In 2020, what was the best movie?"
+      ]
+    },
+    {
+      "tag": "genre_top_movie",
+      "patterns": [
+        "What is the genre of the top movie from 2020?",
+        "What is the genre from the top movie of 2020?",
+        "In 2020, what was the genre of the top movie?",
+        "What was the top movie's genre in 2020",
+        "Genre of the top movie in 2020"
+      ]
+    },
+    {
+      "tag": "longest_movie",
+      "patterns": [
+        "What was the longest movie of 2020?",
+        "Which movie had the longest duration from 2020?",
+        "In 2020, which movie was the longest?",
+        "Which movie had the longest runtime in 2020?",
+        "Runtime of the longest movie in 2020"
+      ]
+    },
+    {
+      "tag": "shows_with_fewer_than_3_seasons",
+      "patterns": [
+        "Shows with fewer than 3 seasons",
+        "Which shows have fewer than three seasons?",
+        "Shows with fewer than three seasons",
+        "Which shows have fewer than 3 seasons?"
+      ]
+    },
+    {
+      "tag": "movies_of_genre",
+      "patterns": [
+        "In 2020, what were the best drama films?",
+        "Best drama movies in 2020",
+        "What were the best drama films in 2020?"
+      ]
+    },
+    {
+      "tag": "shortest_movie",
+      "patterns": [
+        "What was the shortest movie from 2020?",
+        "What was the runtime of the shortest movie in 2020?",
+        "In 2020, how long was the shortest movie?",
+        "What was the duration of the shortest movie in 2020?",
+        "Duration of the shortest movie in 2020"
+      ]
+    },
+    {
+      "tag": "genre_top_show",
+      "patterns": [
+        "What is the genre of the top show in 2020?",
+        "What genre was the top show from 2020?",
+        "In 2020, what was the genre of the top show?",
+        "What was the genre of the best show in 2020?",
+        "Genre of the top show in 2020"
+      ]
+    },
+    {
+      "tag": "top_shows",
+      "patterns": [
+        "Best show from the year 2020?",
+        "What was the top show in 2020?",
+        "In 2020, what was the best show?",
+        "Top show from the year 2020?"
+      ]
+    },
+    {
+      "tag": "content_rating",
+      "patterns": [
+        "What are movies with a content rating of PG?",
+        "Show me movies that are rated PG",
+        "What movies are rated PG?",
+        "Movies that are rated PG"
+      ]
+    },
+    {
+      "tag": "shows_with_at_least_10_seasons",
+      "patterns": [
+        "Shows with more than 10 seasons",
+        "Which shows have more than ten seasons?",
+        "Shows with more than ten seasons",
+        "Which shows have at least ten seasons?"
+      ]
+    }
+  ]
+}
